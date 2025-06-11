@@ -1,0 +1,1 @@
+Copy-Item -Path "$PSScriptRoot\Switch User.lnk" -Destination "C:\Users\Public\Desktop\Switch User.lnk"
